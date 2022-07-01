@@ -48,3 +48,5 @@
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshilsarariya&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilsarariya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
