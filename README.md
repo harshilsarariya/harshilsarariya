@@ -1,52 +1,66 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Harshil</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Harshil! Great to see you here!</b>
 <br>
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
-<p aligh="left">
-  <p>Hey there, welcome!</br>
-</p>
-  	
-  💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.
-</p>
+I am Harshil Sarariya, currently pursuing my B.Tech degree in Information Technology from [Dharmsinh Desai University](https://www.ddu.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <br>
 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshilprajapati9192@gmail.com)](mailto:harshilprajapati9192@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshil-sarariya/)](https://www.linkedin.com/in/harshil-sarariya/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/harshilsarariya)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/harshilsarariya)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/harshilsarariya#9188)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/harshilsarariya/)](https://www.instagram.com/harshilsarariya/)
 
-## 👨🏻‍💻 &nbsp;Things I code with ##
-<p>
-    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</p>
+[![Harshil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=harshilsarariya&theme=xcode)](https://github.com/harshilsarariya)
 
-## 🌎 &nbsp;Where to find me ##
-<p>
-  <a href="https://www.linkedin.com/in/harshil-sarariya/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://twitter.com/harshilsarariya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:harshilprajapati9192@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/harshilsarariya/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+## 👨🏻‍💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/harshilsarariya/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/harshilsarariya)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/harshilsarariya)
+
+## ⚡ Technologies
+
+### Language
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### Libraries & Framework
+
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+
+### Tools:
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Firebase]https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 
 ## 📈 &nbsp;Some Github Stats ##
-<span align="left">
 
-![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshilsarariya&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
-<span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshilsarariya&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilsarariya&layout=compact)](https://github.com/harshilsarariya/github-readme-stats)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=harshilsarariya&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshilsarariya&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshilsarariya&theme=tokyonight" />
+</p>
