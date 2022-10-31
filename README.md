@@ -64,4 +64,3 @@ I am Harshil Sarariya, currently pursuing my B.Tech degree in Information Techno
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshilsarariya&theme=tokyonight" />
 </p>
-![](https://gitwar.herokuapp.com/badge?username=harshilsarariya)
