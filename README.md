@@ -65,4 +65,4 @@ I am Harshil Sarariya, currently pursuing my B.Tech degree in Information Techno
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshilsarariya&theme=tokyonight" />
 </p>
 
-![Profile views](https://gpvc.arturio.dev/harshilsarariya)
+![Profile views](https://komarev.com/ghpvc/?username=harshilsarariya&style=flat-square&color=blue)
