@@ -11,7 +11,7 @@ I am Harshil Sarariya, currently pursuing my B.Tech degree in Information Techno
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/harshilsarariya#9188)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/harshilsarariya/)](https://www.instagram.com/harshilsarariya/)
 
-[![Harshil's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harshilsarariya&theme=xcode)](https://github.com/harshilsarariya)
+[![Harshil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshilsarariya&theme=react-dark)](https://github.com/harshilsarariya)
 
 ## 👨🏻‍💻 Coding Profiles
 
